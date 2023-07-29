@@ -1,0 +1,11 @@
+1- install package for routing 
+    => npm install react-router-dom
+
+2- install bootstrap libraries
+    => npm install bootstrap react-bootstrap
+
+3- install yup, formik for login form validations
+    => npm install formik --save yup
+
+4- install axios for api calls
+    => npm install axios
